@@ -1,0 +1,20 @@
+{
+  "name": "@happyguestmx/deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy.sh",
+  "scripts": {
+    "install": "node appendScript.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeh1/happyguestmx-deploy.git"
+  },
+  "author": "Rafael Hernández Larios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaeh1/happyguestmx-deploy/issues"
+  },
+  "homepage": "https://github.com/rafaeh1/happyguestmx-deploy#readme"
+}
